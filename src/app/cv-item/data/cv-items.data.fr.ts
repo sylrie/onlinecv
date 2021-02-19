@@ -96,11 +96,11 @@ export const EDUCATION: CvItem[] = [
 
 export const LANGUAGES = [
   // RATE YOURSELF  =>  100% = NATIVE;  80-99% = FLUENT;  60-79% = ADVANCED;  40-59% = INTERMEDIATE;  20-39% = ELEMENTARY;  0-19% = BEGINNER
-  { title: 'Python / Django', level: '85' },
-  { title: 'HTML5 / CSS3 / JS', level: '75' },
+  { title: 'Python / Django', level: '75' },
+  { title: 'HTML5 / CSS3 / JS', level: '65' },
   { title: 'Angular / TypeScript', level: '50' },
-  { title: 'MySQL / PostgreSQL', level: '70' },
-  { title: 'Intégration continue / Méthode Agile / UML', level: '75' },
+  { title: 'MySQL / PostgreSQL', level: '65' },
+  { title: 'Intégration continue / Méthode Agile / UML', level: '70' },
 ];
 
 export const PROJECTS: CvItem[] = [
@@ -160,19 +160,6 @@ export const PROJECTS: CvItem[] = [
   },
 ];
 
-// disabled
-export const VOLUNTEERING: CvItem[] = [
-  {
-    title: '',
-    subtitle: '',
-    begin: '',
-    end: '',
-    description: '',
-    link: '',
-    thumbnail: '',
-  },
-];
-
 export const CONTACT = {
   city: 'Calvisson, France',
   phone: '06 26 87 64 81',
@@ -215,29 +202,4 @@ export const INTERESTS = [
   },
 ];
 
-// disabled
-export const PUBLICATIONS: CvItem[] = [
-  {
-    title: '',
-    subtitle: '',
-    begin: '',
-    end: '',
-    description: '',
-    tags: [''],
-    link: '',
-    thumbnail: '',
-  },
-];
 
-// disabled
-export const TALKS: CvItem[] = [
-  {
-    title: '',
-    subtitle: '',
-    begin: '',
-    end: '',
-    description: '',
-    tags: [''],
-    thumbnail: '',
-  },
-];
