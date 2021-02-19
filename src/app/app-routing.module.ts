@@ -11,7 +11,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 
 const routes: Routes = [
-  { path: '',               redirectTo: '/overview', pathMatch: 'full' },
+  { path: '',               redirectTo: '/onlinecv/overview', pathMatch: 'full' },
   { path: 'overview',       component: OverviewComponent },
   { path: 'experience',     component: ExperienceComponent },
   { path: 'education',      component: EducationComponent },

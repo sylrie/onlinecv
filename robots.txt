@@ -1,4 +1,4 @@
-# robots.txt for AngularCV
+# robots.txt for onlinecv
 
 User-agent: *
 Disallow: /src/assets/img/

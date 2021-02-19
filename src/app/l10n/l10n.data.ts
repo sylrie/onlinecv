@@ -18,7 +18,7 @@ export const L10N = {
       button_open_profile: 'VOIR',
     },
     cv_download_card: {
-      title: 'Download this CV as a PDF file',
+      title: 'Télécharger ce CV en pdf',
     },
     cv_item: {
       button_view_link: 'VOIR LE SITE',
@@ -37,14 +37,14 @@ export const L10N = {
       language_beginner: 'beginner',
     },
     experience: {
-      title: 'Professional Experience',
+      title: 'Expérience Professionnelle',
     },
     header: {
       menu_overiew: 'Aperçu',
       menu_experience: 'Expérience',
       menu_education: 'Formation',
       menu_publications: 'Publications',
-      menu_projects: 'Projects',
+      menu_projects: 'Projets',
       menu_volunteering: 'Volunteering',
       menu_contact: 'Contact',
       menu_about: 'About',
@@ -64,7 +64,7 @@ export const L10N = {
       info_headhunter: 'If you received this from a headhunter, he just might have downloaded it from my webpage and sent to you without my consent.',
     },
     projects: {
-      title: 'Projects',
+      title: 'Projets',
     },
     publications: {
       title_talks: 'Talks',
