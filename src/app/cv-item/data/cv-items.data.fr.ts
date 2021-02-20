@@ -161,7 +161,7 @@ export const PROJECTS: CvItem[] = [
 ];
 
 export const CONTACT = {
-  city: 'Calvisson, France',
+  city: 'Calvisson, Occitanie, France',
   phone: '06 26 87 64 81',
   mail: 'sylvain.rieutor.dev@gmail.com',
   skype: 'sylvain rieutor', // just the account name
