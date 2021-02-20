@@ -4,10 +4,10 @@ const express = require('express');
 
 const app = express();
 
-app.use(express.static('./dist/onlinecv'));
+app.use(express.static('./dist/'));
 
 app.get('/*', function (req, res) {
-  res.sendFile('index.html', { root: 'dist/onlinecv' }
+  res.sendFile('index.html', { root: 'dist/' }
   );
 });
 
